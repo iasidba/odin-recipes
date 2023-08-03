@@ -1,2 +1,2 @@
 # odin-recipes
-my 1st project as odin fullstack students
+my project as odin fullstack students.
